@@ -38,6 +38,27 @@ How to access
 name1::name2::x=1;
 name1::name2::funct();
 ```
+Example
+``` gazebo::physics::World```
+gazebo is a namespace
 
     
-12. fae
+12. Gazebo API ```http://osrf-distributions.s3.amazonaws.com/gazebo/api/11.0.0/group__gazebo__physics.html```
+13. this point in C++
+    Useed to refer to the variables and functions within a class.
+    ``` this->id ``` refers to the id which is defined in the class and not the local argument passed to the function
+15. aefea
+16. fae
+17. fae
+18. f
+19. ae
+20. fa
+21. ef
+22. ae
+23. f
+24. aef
+25. ea
+26. f
+27. ae
+28. a
+29. 
