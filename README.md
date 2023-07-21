@@ -41,7 +41,6 @@ name1::name2::funct();
 Example
 ``` gazebo::physics::World```
 gazebo is a namespace
-
     
 12. Gazebo API ```http://osrf-distributions.s3.amazonaws.com/gazebo/api/11.0.0/group__gazebo__physics.html```
 13. this point in C++
